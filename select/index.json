@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Cherish (My Love)",
+  "base_artist": "ILLIT",
+  "createdAt": "2025-12-12T10:51:05.552023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cherish (My Love)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/01_Cherish_(My_Love)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cherish (My Love)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/02_Cherish_(My_Love)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cherish (My Love) (Instrumental)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/03_Cherish_(My_Love)_(Instrumental)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cherish (My Love)",
+      "artist": "아일릿(ILLIT)",
+      "has_synced": true,
+      "path": "select/04_Cherish_(My_Love)_아일릿(ILLIT).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cherish (My Love)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/05_Cherish_(My_Love)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cherish My Love [Radio]",
+      "artist": "Mavado",
+      "has_synced": false,
+      "path": "select/06_Cherish_My_Love_[Radio]_Mavado.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cherish (My Love)",
+      "artist": "ILLIT (아일릿)",
+      "has_synced": true,
+      "path": "select/07_Cherish_(My_Love)_ILLIT_(아일릿).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cherish (My Love)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/08_Cherish_(My_Love)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cherish (My Love)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/09_Cherish_(My_Love)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cherish (My Love) (Deep Dive Remix)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/10_Cherish_(My_Love)_(Deep_Dive_Remix)_ILLIT.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cherish (My Love) Sped up",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/11_Cherish_(My_Love)_Sped_up_ILLIT.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cherish (My Love) (Sped Up)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/12_Cherish_(My_Love)_(Sped_Up)_ILLIT.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cherish (My Love) (Fever Remix)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/13_Cherish_(My_Love)_(Fever_Remix)_ILLIT.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cherish (My Love) (Slowed + Reverb)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/14_Cherish_(My_Love)_(Slowed_+_Reverb)_ILLIT.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cherish (My Love)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_Cherish_(My_Love)_ILLIT.txt"
+    }
+  ]
+}
